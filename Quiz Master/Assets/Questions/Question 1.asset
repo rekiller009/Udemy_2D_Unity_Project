@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943c8fe824824934cb3d99ad44aca8d3, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Which one is good?
+  question: 1. Which one is good?
   answers:
   - hi
   - good morning
